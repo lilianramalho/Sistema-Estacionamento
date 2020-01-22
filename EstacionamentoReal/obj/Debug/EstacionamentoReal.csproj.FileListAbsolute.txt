@@ -1,0 +1,17 @@
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\bin\Debug\EstacionamentoReal.exe.config
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\bin\Debug\EstacionamentoReal.exe
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\bin\Debug\EstacionamentoReal.pdb
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.csprojAssemblyReference.cache
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.Properties.Resources.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.csproj.GenerateResource.cache
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.exe
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\EstacionamentoReal.pdb
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Cargos.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Configacoes.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Entrada.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.EntradaESaida.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Funcionario.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.MenuInicial.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Placa.resources
+C:\Users\vanes\source\repos\EstacionamentoReal\EstacionamentoReal\obj\Debug\Estacionamento.Saida.resources
